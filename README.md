@@ -1,1 +1,1 @@
-# docker
+print("Hello World.")
